@@ -93,6 +93,10 @@ a {
   box-sizing: border-box;
   padding: 20px;
 }
+.milo-1 {
+  height: 100px;
+  width: 100px;
+}
 .quotation {
   margin: 0;
   padding: 100px 15%;

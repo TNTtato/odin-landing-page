@@ -109,3 +109,33 @@ a {
   text-align: right;
   font-weight: bold;
 }
+.sign-in-section {
+  height: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.blue-box {
+  display: flex;
+  justify-content: space-around;
+  padding: 0;
+  align-items: center;
+  height: 150px;
+  width: 80%;
+  border-radius: 16px;
+}
+.blue-box, .blue-box button {
+  background-color: #3882F6;
+  
+  color: #E5E7EB;
+}
+.blue-box button {
+  border-style: solid;
+  border-color: #E5E7EB;
+  font-size: 18px;
+  padding: 8px 32px;
+  border-radius: 8px;
+}
+.blue-box p b {
+  font-size: 24px;
+}

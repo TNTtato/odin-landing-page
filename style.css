@@ -73,6 +73,7 @@ a {
 .section-1-cont {
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
   text-align: center;
   font-weight: 300;
   color: #1F2937;
